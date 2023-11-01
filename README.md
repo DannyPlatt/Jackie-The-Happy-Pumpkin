@@ -6,9 +6,12 @@ but don't let Jackie's light go out. Collect all the candles
 too keep his inner fire shining bring
 (timer needs to be implemented)
 
+### Theme Justification
 The theme for this hackathon was "Night of the living tech"
 To fulfill this theme, I brough back something very near
-and dear to my childhood. Flash. On Dec. 31st 2020 Adobe 
+and dear to my childhood. Made with "Macromedia Flash professional 8"
+I present to you, Jackie the Happy Pumpkin; a Flash game. 
+On Dec. 31st 2020 Adobe 
 discontinued Flash, and with it, many of the flash games
 that I as a child spent much time with. From websites
 such as Miniclip, Candystand, Addicting games, and many
