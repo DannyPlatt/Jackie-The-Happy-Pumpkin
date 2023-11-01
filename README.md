@@ -15,4 +15,6 @@ such as Miniclip, Candystand, Addicting games, and many
 more, Flash games were the go to source of escape for any
 elementery student in their school's computer lab.
 
+Download is a .exe file, and windows defender is not happy about it
+
 Sprite images created by WeenterMakesGames
